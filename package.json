@@ -1,0 +1,8 @@
+{
+  "name": "lottery-tool",
+  "description": "A Vue.js project",
+  "version": "1.0.0",
+  "author": "",
+  "license": "MIT",
+  "main": "lottery.vue"
+}
