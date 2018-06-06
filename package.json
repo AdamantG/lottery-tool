@@ -4,5 +4,9 @@
   "version": "1.0.0",
   "author": "",
   "license": "MIT",
-  "main": "lottery.vue"
+  "main": "lottery.vue",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdamantG/lottery-tool.git"
+  }
 }
